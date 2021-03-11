@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/eclipsebin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../bin/platform/ext/hac">
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/testsrc" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/eclipsebin-web" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/backoffice/classes" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="resources">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="hacserver.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../bin/platform/ext/hac/bin/hacserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="lib">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../bin/platform/ext/hac/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="impex" exported="" />
+    <orderEntry type="module" module-name="platformservices" exported="" />
+    <orderEntry type="module" module-name="catalog" exported="" />
+    <orderEntry type="module" module-name="processing" exported="" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+  <component name="moduleReferences">
+    <list uuid="1b2d0986f7d4460fa557a25de9d3548721076040172a8bfa108bac245cb32f1f" id="b5bea41b6c623f7c09f1bf24dcae58ebab3c0cdd90ad966bc43a45b44867e12b" />
+    <list uuid="3b1dcc6ddc00eea7c0e7437dabfdf5206f703fc1e08bb78e8ca990b6ed647c1b" id="0a96c088a259ac782c5a25f38985c659a4e01a36c9545a422bfcbb8f79ca8dbf" />
+  </component>
+</module>
